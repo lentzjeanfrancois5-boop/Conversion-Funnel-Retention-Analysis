@@ -24,4 +24,4 @@ The analysis was performed after initial data showed unacceptable levels of cust
 ## 📁 Repository Structure
 
 * [`Funnel_and_Retention_Analysis`](https://github.com/lentzjeanfrancois5-boop/Conversion-Funnel-Retention-Analysis/blob/main/Business%20Analytics_%20Project.xlsx): The spreadsheet containing the raw data and the pivot table showing the final retention rates.
-* [`SQL Query`](https://github.com/lentzjeanfrancois5-boop/Conversion-Funnel-Retention-Analysis/blob/main/cohort_analysis_query.sql)
+* [`SQL Query`](https://github.com/lentzjeanfrancois5-boop/Conversion-Funnel-Retention-Analysis/blob/main/cohort_analysis_query.sql): The SQL Query For Analysis
