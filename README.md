@@ -23,4 +23,4 @@ The analysis was performed after initial data showed unacceptable levels of cust
 
 ## 📁 Repository Structure
 
-* `2_Cohort_Model.xlsx` (or `.gsheet` link): The spreadsheet containing the raw data and the pivot table showing the final retention rates.
+* `Funnel_and_Retention_Analysis` (or `.gsheet` link): The spreadsheet containing the raw data and the pivot table showing the final retention rates.
