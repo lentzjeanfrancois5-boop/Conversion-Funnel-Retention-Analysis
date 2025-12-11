@@ -23,6 +23,4 @@ The analysis was performed after initial data showed unacceptable levels of cust
 
 ## 📁 Repository Structure
 
-* `1_SQL_Queries.sql`: Contains the finalized SQL script used for data cleaning and accurate `cohort_age` calculation.
 * `2_Cohort_Model.xlsx` (or `.gsheet` link): The spreadsheet containing the raw data and the pivot table showing the final retention rates.
-* `3_Report_Visualizations.pdf`: The final report summary, including the visualization of the funnel steps and the retention heat map.
