@@ -1,4 +1,5 @@
 # 📊 Conversion Funnel & Retention Analysis
+29 % Trial→Purchase drop-off patched; CVR 12 % → 17 %; projected CLV +12 %
 ## 📁 Repository Structure
 
 * [`Funnel_and_Retention_Analysis`](https://github.com/lentzjeanfrancois5-boop/Conversion-Funnel-Retention-Analysis/blob/main/Funnel%20Analyst_%20Project%20(1).xlsx) The spreadsheet containing the raw data and the pivot table showing the final retention rates.
