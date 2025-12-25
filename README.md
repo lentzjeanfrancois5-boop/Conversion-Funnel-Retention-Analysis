@@ -1,4 +1,8 @@
 # 📊 Conversion Funnel & Retention Analysis
+## 📁 Repository Structure
+
+* [`Funnel_and_Retention_Analysis`](https://github.com/lentzjeanfrancois5-boop/Conversion-Funnel-Retention-Analysis/blob/main/Funnel%20Analyst_%20Project%20(1).xlsx) The spreadsheet containing the raw data and the pivot table showing the final retention rates.
+* [`SQL Query`](https://github.com/lentzjeanfrancois5-boop/Conversion-Funnel-Retention-Analysis/blob/main/cohort_analysis_query.sql): 	Data extraction, cleaning, date standardization, and calculation of initial metrics 
 
 ## 🎯 Project Overview: Diagnosing Customer Attrition
 
@@ -20,8 +24,3 @@ The analysis was performed after initial data showed unacceptable levels of cust
 | **Advanced Excel** (or Google Sheets) | Development of the custom **Cohort Analysis Model** and Pivot Table logic to measure monthly retention rates. |
 | **Data Modeling** | Defined key metrics (CLV, Churn, Retention Rate) and created the core user-transaction table structure. |
 | **Funnel Analysis** | Utilized conversion rates between defined stages (Awareness $\rightarrow$ Trial $\rightarrow$ Purchase) to identify the largest points of friction. |
-
-## 📁 Repository Structure
-
-* [`Funnel_and_Retention_Analysis`](https://github.com/lentzjeanfrancois5-boop/Conversion-Funnel-Retention-Analysis/blob/main/Funnel%20Analyst_%20Project%20(1).xlsx) The spreadsheet containing the raw data and the pivot table showing the final retention rates.
-* [`SQL Query`](https://github.com/lentzjeanfrancois5-boop/Conversion-Funnel-Retention-Analysis/blob/main/cohort_analysis_query.sql): 	Data extraction, cleaning, date standardization, and calculation of initial metrics 
